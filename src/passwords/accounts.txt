@@ -1,23 +1,41 @@
-1,admin,adminpass,g0t r00t?,Admin
-2,adrian,somepassword,Zombie Films Rock!,Admin
-3,john,monkey,I like the smell of confunk,Admin
-4,jeremy,password,d1373 1337 speak,Admin
-5,bryce,password,I Love SANS,Admin
-6,samurai,samurai,Carving fools,Admin
-7,jim,password,Rome is burning,Admin
-8,bobby,password,Hank is my dad,Admin
-9,simba,password,I am a super-cat,Admin
-10,dreveil,password,Preparation H,Admin
-11,scotty,password,Scotty do,Admin
-12,cal,password,C-A-T-S Cats Cats Cats,Admin
-13,john,password,Do the Duggie!,Admin
-14,kevin,42,Doug Adams rocks,Admin
-15,dave,set,Bet on S.E.T. FTW,Admin
-16,patches,tortoise,meow,Admin
-17,rocky,stripes,treats?,Admin
-18,tim,lanmaster53,Because reconnaissance is hard to spell,Admin
-19,ABaker,SoSecret,Muffin tops only,Admin
-20,PPan,NotTelling,Where is Tinker?,Admin
-21,CHook,JollyRoger,Gator-hater,Admin
-22,james,i<3devs,Occupation: Researcher,Admin
-23,ed,pentest,Commandline KungFu anyone?,Admin
+CID,Username,Password,Signature,Type,FirstName,LastName,ClientID,ClientSecret
+1,admin,adminpass,g0t r00t?,User,System,Administrator,d096c908beb4fe19287f73d7e91100f5,ace47cf3b0230c4d95fe3f6c0b2dd18844f345478a2991408bacc97ab0ef93f2
+2,adrian,somepassword,Zombie Films Rock!,User,Adrian,Crenshaw,98344114b4c193dfe0e0de6f04408de2,6a0493a317c1bc66c36dd533f4338d85113369140b7457ee4760943fbedead06
+3,patches,tortoise,meow,User,Patches,Pester,7fb5f693d29b02522e41f64145a7f1d0,1157028806087d16e6f14f3145d724624ebf314335d9f121e038499aed2aed62
+4,jeremy,password,d1373 1337 speak,User,Jeremy,Druin,bc358ee464de8d23be8a1a398bca5e5a,1ff821130fe9bb1ec77548a42a6e18084eecc012764af1e4ec62a041a405f39d
+5,bryce,password,I Love SANS,User,Bryce,Galbraith,76cc2de6f53b7b0a2d6ee80a7d6486e9,76e3a4388a5dec98be829a76ce023da57ad3355ed2b350829a2f131ed2921594
+6,samurai,samurai,Carving fools,User,Samurai,WTF,ed38ed3526dbdd6838b4f2c6242491c4,468f32db959d28eee0a74419f59645fe39bdc45e4cda2123dc4a65cb46c0777c
+7,dodgerjim,password,Rome is burning,User,Jim,Rome,a57602e9cb2868fd8c7145a32a260922,46838152b15508c394c869e7b00810449988dff2cfddbd3bc587b79cb26d5474
+8,bobby,password,Hank is my dad,User,Bobby,Hill,286ead5a065347e4311565e8b8cb0d5b,300aefd4efe8c1f876ce0a0afa13eca0b6deaa8dfd56af3fb24dae410fc52840
+9,simba,password,I am a super-cat,User,Simba,Lion,e93c81581b30cb74ed11e4b54b94b91f,a2af4c619585bc3c29c7fae6a994a511f0ba1332f2972b40297e0d73c7806757
+10,dreveil,password,Preparation H,User,Dr.,Evil,55745415e5175dab65e2c6ec23b9c15e,e141b110e61fcc0b1a67233e2ed4649b6d67c9d840ba577f52aeceffaf0cd6b1
+11,scotty,password,Scotty do,User,Scotty,Evil,fcf24405dfe5f952662917dc7104fdda,e0a7798b3b9b04ca6baf26e8ceeb7a6371a65675850bdfefc124c3e410137a15
+12,cal,password,C-A-T-S Cats Cats Cats,User,John,Calipari,81ef075b49570cfa0597795a7641f619,88cb5824a6669ecb8d2ef14ec97ae2164f422c3262aa26915aaa340488a8c484
+13,john,password,Do the Duggie!,User,John,Wall,88f4eb3b277a27b762b3b854b1584c60,de8dad37486a892b565c554d6ac683eab98be71f3b925153e51592a40bb84e19
+14,kevin,42,Doug Adams rocks,User,Kevin,Johnson,13947a2a472e61c20ba596e1bf857203,9395bbdf7fd8d074f73b201e618122a05fa1c4efc804ac40131bd1d6c5b454c8
+15,dave,set,Bet on S.E.T. FTW,User,Dave,Kennedy,e49e01d26aaef91594ff7ad82a337f63,3035de11c8f091fa8c0920f96c1ffb6b879a45056a1a6514bafc863a9e1e39f4
+16,rocky,stripes,treats?,User,Rocky,Paws,bd95faa2abeb2cc8f444b53764450125,685c2e15352a894f6e6c628ce891116dcdaff9296725778d62442d851e35948f
+17,tim,lanmaster53,Because reconnaissance is hard to spell,User,Tim,Tomes,5d213595127df018887a14533af1b751,739207bd680ec7adeb29ecd6501678f845f44fece7cd58f3088cd7074d44a591
+18,ABaker,SoSecret,Muffin tops only,User,Aaron,Baker,54787f4539e6f4fb5fee2ae5814bce0e,844a8bbe2538c473f36cade313653fa284c0da1c06d738ff8b5837d2c2f64daf
+19,PPan,NotTelling,Where is Tinker?,User,Peter,Pan,27adfbcf71c1c31d8bd4077823921144,3a51e37ddd610d9eff0e5ac1febbe3377511f55ac2c290f0d57e9fc845c02ea3
+20,CHook,JollyRoger,Gator-hater,User,Captain,Hook,30d552012767ac2629587aa856684bc9,0da3ccf34b10672598745b50648ef1d2aa2b08958a1c5c9347cfd87ab0ecfa62
+21,james,i<3devs,Occupation: Researcher,User,James,Jardine,65cb481929cdb85f2c31c9a2ba5eba8b,8570047a31da4e51d24860c571d7a64fd8937775e14de63f752e861d39f3bdeb
+22,ed,pentest,Commandline KungFu anyone?,User,Ed,Skoudis,fa31b2b094ab845d608ef35a1b8babfc,a7948bd4d1c094775d49142d87db9d4b057644ce21e0ccdd97a8d88e8fc6d762
+23,joe,holly,Off by one error,User,Joe,Holly,79eb068083a5d9c0c739739d66631c83,5c15b4889ff96aa0a5d706f16180194dbe667554c231afb6b72ac443cbf16ec9
+24,peter,initech123,I dont like my job,User,Peter,Gibbons,1709e0f71cb5c543edf663eecb0f8acd,55aa7c056c103b47d41bf83d9ff5fe27ca8e8198e215b84a85ce161c7f7cfb4d
+25,milton,stapler,Wheres my stapler?,User,Milton,Waddams,d13e8eaf0ed6b42065f5100d88e7d01f,0ae051f654d8180fb54fbdceecffb488c4fecdacfce135a11440aa4c422794d7
+26,bill,tpsreports,Did you get the memo?,User,Bill,Lumbergh,2f73498a9fb3e3081ceb8b0cb27e729d,9360aaa56d7fd9ed5b39e437955045df6e977aa95962ba18afb3503c515ef60a
+27,samir,nojoke123,No one can pronounce my last name,User,Samir,Nagheenanajar,4898842878cb06700e2129561f4b7bcf,b76ed28eabb24c47aabb328a6329d57f0813a1e98cc5ff4c57f9527226226539
+28,michael_b,michael123,We fixed the glitch,User,Michael,Bolton,273f78bde5eecbb0d1af15bd4871883e,e9ff7d6dbc5c088b33c6a5abfb9e958a269dcbad18b78accbd0b481372a71707
+29,michael_s,worldsbestboss,Worlds Best Boss,User,Michael,Scott,f5b92c0948b7929abda37ca54328db4a,be628c7af6e858a67fc392e6d01429959e318fff240a2ae2c1e3c9d191969058
+30,jim,bearsbeatsbattlestar,Pranking Dwight,User,Jim,Halpert,63408fdde067209900e3b3774dc7d342,eff3a7d01026c7edcd4935bc0c5a7a13d19f5851f26a743948e7359288f1b403
+31,dwight,assistant_to_the_regional_manager,Bears. Beets. Battlestar Galactica.,User,Dwight,Schrute,e26c021f863d6779e2de6462c8ed3f1e,668dab594e383ccb9704cd7033e49320f74242e39c5a3541e614b768c10f102f
+32,pam,pammy123,Dunder Mifflin,User,Pam,Beesly,850cfdaaab0d5fec413bf7a8f013d018,330676e0f4732b45351ed2b4905d15a7f4ae858f0b55bd421ba69bf9734856cd
+33,ryan,temp123,I am the temp,User,Ryan,Howard,c88b8af1fe244bd540222d889239aa50,b0511419970c6a22ed237388e2d39f0b4272db79db54ae5742db8e2bb252f50a
+34,derek,bluestrike,Im pretty sure theres more to life than being really, really ridiculously good looking,User,Derek,Zoolander,7f52d80cde24b5de602d4d70af1aaa46,2e3166ed92a18db7729ff8f3fd17bcb7e1efb59e0da0f56ec631185afe05f066
+35,hansel,hansel123,Hansel. Hes so hot right now.,User,Hansel,,fe42281d1ab366bd5b7cf813e17dfbca,e2cb24c34622cc6ebf788660ca54a0ccf6d85c979203f7ac1242e6420725aea2
+36,mugatu,mugatu123,I invented the piano key necktie!,User,Jacobim,Mugatu,8bfa983f58f97351de258dcdf38abb25,46de0bc12b1dfc5728d9e202fb3f2c81e9f753a10664367cd0097936be3628cb
+37,matilda,journalist123,Investigative reporter,User,Matilda,Jeffries,328a2135a82a41b1760cb207b40ae9ca,22eaef40f3cebaec8b3ab6640bcdafe8eb0c6b7dcee8942501d1db4158bf8b00
+38,stackhawk,Kaakaww,Swooping in for security,User,Stack,Hawk,ccbee06b6c5d8efcad26c1eb15bf30f5,49efe88fecf9bde405f7ca4785ca689e30904f7efeba8ae111f4da20556da54e
+39,zoolander,zoolander123,I am really, really, really, ridiculously good looking,User,Derek,Zoolander,3bc2834601e10e8fdfd102d6794d7630,2690cd50c1e6a04d25362a1eeafa95f81064cb0ff07b64fc3453d14372c6d3e2
+40,maury,maury123,Youre the guy who cant turn left,User,Maury,Ballstein,fe673bfdb6a50e3da3fdd1a120694cf1,3a0b88f8926594de6780e4002cf67360159aaa59719d42286c589f853075462e

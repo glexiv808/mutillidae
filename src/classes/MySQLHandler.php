@@ -50,7 +50,12 @@ class MySQLHandler {
 	 * account root has to match what is in database.config.
 	 * */
 
-	static public $mMySQLDatabasePassword = DB_PASSWORD;
+	// static public $mMySQLDatabasePassword = DB_PASSWORD;
+	// static public $MUTILLIDAE_DBV1_PASSWORD = "";
+	// static public $MUTILLIDAE_DBV2_PASSWORD = "mutillidae";
+	// static public $SAMURAI_WTF_PASSWORD = "samurai";
+
+	static public $mMySQLDatabasePassword = "";
 	static public $MUTILLIDAE_DBV1_PASSWORD = "";
 	static public $MUTILLIDAE_DBV2_PASSWORD = "mutillidae";
 	static public $SAMURAI_WTF_PASSWORD = "samurai";
